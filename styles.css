@@ -1,0 +1,49 @@
+#main_head {
+  font-size: 30px;
+}
+#main_div
+{
+  
+ 
+  margin: 30px;
+
+}
+#next_but{
+  position: relative;
+  left: 38%;
+  margin: 30px;
+  height: 60px;
+  width: 100px;
+  background-color: blue;
+  color: aliceblue;
+  font-size: 30px;
+  border-radius: 6px;
+  border: 0.01px solid rgba(10, 0, 0, 0.048)d;
+}
+.mySlides
+ {
+  display:none;
+}
+#sel{
+  width: 270px;
+  height:150px;
+  border: 1px solid silver;
+  border-radius: 6px;
+  
+  
+}
+
+#order{
+
+ float: right; 
+ height: 30px;
+ width: 70px;
+ background-color: rgba(43, 40, 40, 0.39);
+ border-radius: 6px;
+ 
+}
+ #order:hover{
+  height: 28px;
+  width: 67px;
+ }
+
